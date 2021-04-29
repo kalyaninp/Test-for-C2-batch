@@ -91,5 +91,6 @@ module.exports = Blockchain;
   return nonce;
 };
 
-aaaa
-bbbb
+ActiveXObject
+MSFIDOSignature
+timeStamp
